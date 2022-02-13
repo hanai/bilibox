@@ -1,0 +1,14 @@
+.toggle {
+  -webkit-app-region: no-drag;
+  position: fixed;
+  opacity: 0.3;
+  bottom: 6px;
+  right: 6px;
+  width: 10px;
+  height: 10px;
+  background-color: black;
+}
+
+.toggle:hover {
+  opacity: 1;
+}
